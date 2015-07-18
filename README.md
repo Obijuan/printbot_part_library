@@ -1,4 +1,8 @@
-printbot_part_library
+![Printbos library logo](Printbots-library-doc/Logo/logo-printbots-parts-library.png "Printbots Library logo")
+
+printbot part library
 =====================
 
-Printbots part library
+Vitamins and printable parts for designing your printbots in Freecad!
+
+
